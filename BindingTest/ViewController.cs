@@ -15,11 +15,13 @@ namespace BindingTest
 		{
 			base.ViewDidLoad();
 			// Perform any additional setup after loading the view, typically from a nib.
-			var player = new JWPlayerController();
 
 			var config = new JWConfig();
 			config.File = "http://content.jwplatform.com/videos/f3FPINhF.mp4";
 			config.Size = new CoreGraphics.CGSize(100, 100);
+
+			var player = new JWPlayerController(config);
+
 			this.View.Add(player.View);
 		}
 
