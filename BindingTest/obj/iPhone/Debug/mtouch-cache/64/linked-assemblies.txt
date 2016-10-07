@@ -1,0 +1,5 @@
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/mtouch-cache/64/Link/BindingTest.exe
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/mtouch-cache/64/Link/System.dll
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/mtouch-cache/64/Link/mscorlib.dll
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/mtouch-cache/64/Link/JWPlayer.dll

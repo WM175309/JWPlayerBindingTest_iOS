@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0D217262-EBD7-4102-9F2C-BCAEC36D3392}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BindingTest/Main.cs">
+    <Files>
+      <File FileName="BindingTest/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="BindingTest/Main.cs" Line="18" Column="1" />
+      <File FileName="BindingTest/ViewController.cs" Line="23" Column="31" />
+      <File FileName="../JWPlayer/JWPlayer/ApiDefinition.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BindingTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2A9174E9-DE2F-4E8A-988C-AD7C1CA2F330" />
+</Properties>

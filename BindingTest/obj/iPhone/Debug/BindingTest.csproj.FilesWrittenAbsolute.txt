@@ -1,0 +1,11 @@
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/optimized/
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/bin/iPhone/Debug/BindingTest.exe.mdb
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/bin/iPhone/Debug/BindingTest.exe
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/BindingTest.exe
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/obj/iPhone/Debug/BindingTest.exe.mdb
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/bin/iPhone/Debug/JWPlayer.dll
+/Users/wmartin/Documents/Xamarin/Projects/BindingTest/BindingTest/bin/iPhone/Debug/JWPlayer.dll.mdb
