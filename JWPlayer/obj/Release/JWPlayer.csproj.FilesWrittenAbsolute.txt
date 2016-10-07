@@ -1,0 +1,3 @@
+/Users/wmartin/Documents/Xamarin/Projects/JWPlayer/JWPlayer/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/wmartin/Documents/Xamarin/Projects/JWPlayer/JWPlayer/bin/Release/JWPlayer.dll
+/Users/wmartin/Documents/Xamarin/Projects/JWPlayer/JWPlayer/obj/Release/JWPlayer.dll
